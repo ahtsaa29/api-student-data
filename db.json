@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "name": "Biniv",
+      "age": "15",
+      "id": 1
+    },
+    {
+      "name": "sadikshya",
+      "age": "16",
+      "id": 2
+    }
+  ]
+}
